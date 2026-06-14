@@ -9,11 +9,19 @@ Kelas: I241D
 Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem manajemen katalog komik digital yang dibangun sebagai pemenuhan tugas akhir mata kuliah Pemrograman Web 2. Proyek ini mengimplementasikan pola arsitektur Client-Server dengan pendekatan Decoupled, yang memisahkan secara modular antara RESTful API Backend dan Frontend Single Page Application (SPA) untuk mencapai performa sistem yang lebih optimal.
 
 # Arsitektur & Komponen Sistem
-- backend-api/ : Berperan sebagai pusat kendali data (RESTful API Server) yang ditenagai oleh framework CodeIgniter 4. Sisi server ini telah dilengkapi dengan sistem keamanan mutakhir menggunakan mekanisme enkripsi berbasis JWT (JSON Web Token) untuk memproteksi lalu lintas data.
+- ```backend-api/``` : Berperan sebagai pusat kendali data (RESTful API Server) yang ditenagai oleh framework CodeIgniter 4. Sisi server ini telah dilengkapi dengan sistem keamanan mutakhir menggunakan mekanisme enkripsi berbasis JWT (JSON Web Token) untuk memproteksi lalu lintas data.
 
-- frontend-spa/ : Berperan sebagai lapisan antarmuka pengguna berbasis Single Page Application (SPA) yang dirancang menggunakan kombinasi Vue.js 3 serta framework Tailwind CSS untuk menyajikan desain Ultra-Modern UI. Proses pertukaran data asynchronous dengan server dijembatani secara penuh oleh pustaka Axios.
+- ```frontend-spa/``` : Berperan sebagai lapisan antarmuka pengguna berbasis Single Page Application (SPA) yang dirancang menggunakan kombinasi Vue.js 3 serta framework Tailwind CSS untuk menyajikan desain Ultra-Modern UI. Proses pertukaran data asynchronous dengan server dijembatani secara penuh oleh pustaka Axios.
 
 # Panduan Instalasi dan Menjalankan Project
+
+### - Frontend
+
+- Buka folder ```frontend-spa/.```
+
+- Pastikan base URL pada pemanggilan Axios sudah mengarah ke port backend yang aktif (http://localhost:8080).
+
+- Jalankan file ```index.html``` langsung menggunakan browser atau ekstensi Live Server di VS Code.
 
 # Bukti Dokumentasi Hasil Pengujian
 
