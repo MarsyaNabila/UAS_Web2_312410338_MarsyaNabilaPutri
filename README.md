@@ -21,7 +21,7 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 - Buka folder ```frontend-spa/.```
 
-- Pastikan base URL pada pemanggilan Axios sudah mengarah ke port backend yang aktif (http://localhost:8080).
+- Pastikan base URL pada pemanggilan Axios sudah mengarah ke port backend yang aktif ```http://localhost:8080```.
 
 - Jalankan file ```index.html``` langsung menggunakan browser atau ekstensi Live Server di VS Code.
 
