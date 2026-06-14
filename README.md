@@ -24,7 +24,7 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 <img width="959" height="459" alt="image" src="https://github.com/user-attachments/assets/75920f1b-ddea-4c91-ba79-812ca17b3200" />
 
-<img width="959" height="461" alt="image" src="https://github.com/user-attachments/assets/0c839913-9d3f-475f-bbe8-e44d923bf575" />
+<img width="959" height="464" alt="image" src="https://github.com/user-attachments/assets/fbc35ec9-d3b1-46e9-bcca-397e28a171a0" />
 
 <img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/55b647cd-2cc3-47cb-99db-5f8eb02314c0" />
 
