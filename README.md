@@ -15,7 +15,9 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 # Panduan Instalasi dan Menjalankan Project
 
-### - Frontend
+### 1. Backend
+
+### 2. Frontend
 
 - Buka folder ```frontend-spa/.```
 
