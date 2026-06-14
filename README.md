@@ -31,6 +31,8 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 - Jalankan file ```index.html``` langsung menggunakan browser atau ekstensi Live Server di VS Code.
 
+# Link Demo Aplikasi
+
 # Bukti Dokumentasi Hasil Pengujian
 
 ### 1. Database
