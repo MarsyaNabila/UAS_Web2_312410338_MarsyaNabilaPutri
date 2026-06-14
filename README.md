@@ -13,6 +13,8 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 - frontend-spa/ : Berperan sebagai lapisan antarmuka pengguna berbasis Single Page Application (SPA) yang dirancang menggunakan kombinasi Vue.js 3 serta framework Tailwind CSS untuk menyajikan desain Ultra-Modern UI. Proses pertukaran data asynchronous dengan server dijembatani secara penuh oleh pustaka Axios.
 
+# Panduan Instalasi dan Menjalankan Project
+
 # Bukti Dokumentasi Hasil Pengujian
 
 ### 1. Database
