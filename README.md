@@ -17,6 +17,14 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 ### 1. Backend
 
+- Masuk ke folder backend-api/.
+
+- Salin file .env dan atur konfigurasi database serta JWT_SECRET_KEY.
+
+- Jalankan server lokal:
+
+  ```   php spark serve```
+
 ### 2. Frontend
 
 - Buka folder ```frontend-spa/.```
