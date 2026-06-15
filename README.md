@@ -35,7 +35,7 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 - Demo Aplikasi:
 
-- Presentasi proyek
+- Presentasi proyek:
 
 # Bukti Dokumentasi Hasil Pengujian
 
