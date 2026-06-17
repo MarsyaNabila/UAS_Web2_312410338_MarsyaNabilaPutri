@@ -33,7 +33,7 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 # Link Demo dan Presentasi
 
-- Demo Aplikasi:
+- Demo Aplikasi: https://uas-web2-312410338-marsya-nabila-pu.vercel.app/
 
 - Presentasi proyek:
 
