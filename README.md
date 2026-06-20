@@ -97,6 +97,17 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 <img width="959" height="458" alt="image" src="https://github.com/user-attachments/assets/ce13335e-a9a6-4cb3-81d0-822e8f25cd70" />
 
+# Arsitektur Teknologi
+
+### Backend (API)
+* **Framework**: CodeIgniter 4
+* **Database**: MySQL
+* **Fitur**: RESTful API, Validation Rules, Filters Auth
+
+### Frontend (UI)
+* **Framework**: Vue.js (SPA Component)
+* **Styling**: Tailwind CSS
+* **HTTP Client**: Axios
 
 
 
