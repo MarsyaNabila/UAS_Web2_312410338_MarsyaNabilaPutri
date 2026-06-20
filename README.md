@@ -31,6 +31,13 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 - Jalankan file ```index.html``` langsung menggunakan browser atau ekstensi Live Server di VS Code.
 
+# Fitur Utama Panel Admin
+
+* **Dashboard Statistik Interaktif**: Menampilkan total koleksi, total stok, kategori, dan buku yang kosong dalam bentuk card visual premium.
+* **Autentikasi Aman**: Sistem login administrator menggunakan token-based authentication (Axios & LocalStorage).
+* **Manajemen Data CRUD**: Pengelolaan data buku dan kategori dengan validasi server-side yang ketat.
+* **Desain UI Modern**: Antarmuka responsif berbasis *Glassmorphism* dengan sentuhan skema warna pastel yang memanjakan mata.
+
 # Link Demo dan Presentasi
 
 - Demo Aplikasi: https://uas-web2-312410338-marsya-nabila-pu.vercel.app/
@@ -109,6 +116,16 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 * **Styling**: Tailwind CSS
 * **HTTP Client**: Axios
 
+## File ```.env```
 
+```
+database.default.hostname = localhost
+database.default.database = db_library
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+database.default.DBPrefix = 
+database.default.port     = 3306
+```
 
 
