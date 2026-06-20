@@ -47,37 +47,53 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 <img width="782" height="492" alt="Screenshot 2026-06-12 164551" src="https://github.com/user-attachments/assets/e7501bec-b682-496b-ad21-52c322029b29" />
 
-### 3. Antarmuka Aplikasi (Frontend)
+## 3. Antarmuka Aplikasi (Frontend)
 
 - Login Admin
 
 - (Username: admin) (Password: admin123)
 
-<img width="959" height="462" alt="image" src="https://github.com/user-attachments/assets/c8de8b57-5cda-4e6f-8b75-57dc71172edb" />
+<img width="959" height="460" alt="image" src="https://github.com/user-attachments/assets/aba71202-247b-47f9-9ed8-bcde9f74000a" />
 
-- Dashboard Admin
+###  Dashboard Admin
 
-<img width="959" height="448" alt="image" src="https://github.com/user-attachments/assets/1034acd2-a546-42a1-93a5-3102f68d947c" />
+<img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/4632ad94-e4a8-4473-ae47-b084d7e7f2bb" />
 
-<img width="959" height="458" alt="image" src="https://github.com/user-attachments/assets/09c4f776-2c48-4bcd-a659-d01413ef6ac6" />
+<img width="959" height="456" alt="image" src="https://github.com/user-attachments/assets/899d75e0-4d3c-49dd-9d90-b4f02f7bc0cc" />
 
-- Dashboard Admin (Tambah Komik/Buku)
+###  Dashboard Admin (Tambah Komik/Buku)
+
+<img width="959" height="457" alt="image" src="https://github.com/user-attachments/assets/f3e3a47c-b244-4428-ac98-82cffa3ebb33" />
+
+###  Dashboard Admin (Edit Komik/Buku)
   
-<img width="959" height="460" alt="image" src="https://github.com/user-attachments/assets/b53c6e99-65bc-4bdd-a871-18a1089af422" />
+<img width="959" height="451" alt="image" src="https://github.com/user-attachments/assets/54f1f09b-9b26-4595-9ca9-256fcd766f8b" />
 
-- Dashboard Admin (Edit Komik/Buku)
-  
-<img width="959" height="458" alt="image" src="https://github.com/user-attachments/assets/ff7d4288-1fec-4b50-82c1-5244222b431e" />
+###  Dashboard Admin (Hapus Komik/Buku) 
 
-- Dashboard Admin (Hapus Komik/Buku) 
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/82e110d1-53c9-4c10-b62e-6d1099786dab" />
 
-<img width="959" height="464" alt="image" src="https://github.com/user-attachments/assets/fbc35ec9-d3b1-46e9-bcca-397e28a171a0" />
+### Tabel Kategori
 
-- Katalog Tabel Data User
+<img width="959" height="461" alt="image" src="https://github.com/user-attachments/assets/e979fa77-4393-47d9-b2ab-cca393031356" />
+
+### Tambah Kategori
+
+<img width="959" height="455" alt="image" src="https://github.com/user-attachments/assets/2ff90841-65c5-43cd-920d-adde36019a7a" />
+
+### Edit Kategori
+
+<img width="959" height="450" alt="image" src="https://github.com/user-attachments/assets/69ecc185-dc69-4788-8ac3-9a3879556112" />
+
+### Hapus Kategori
+
+<img width="959" height="461" alt="image" src="https://github.com/user-attachments/assets/6537c0cf-b7bb-49e5-b334-6d68394d141b" />
+
+###  Katalog Tabel Data User
 
 <img width="959" height="463" alt="image" src="https://github.com/user-attachments/assets/f4f8877c-4060-4b13-a3a7-c51cd1999e9d" />
 
-- Peminjaman Buku User
+###  Peminjaman Buku User
 
 <img width="959" height="458" alt="image" src="https://github.com/user-attachments/assets/ce13335e-a9a6-4cb3-81d0-822e8f25cd70" />
 
