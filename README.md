@@ -42,7 +42,7 @@ Repositori ini menyimpan source code aplikasi Marsya's Library, sebuah sistem ma
 
 - Demo Aplikasi: https://uas-web-delta.vercel.app/
 
-- Presentasi proyek:
+- Presentasi proyek:https://youtu.be/qlCCRBgulcw?feature=shared
 
 # Bukti Dokumentasi Hasil Pengujian
 
